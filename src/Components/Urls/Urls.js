@@ -1,4 +1,4 @@
-const BASE_URL='http://localhost:5000';
-const SOCKET_URL='http://localhost:7000';
+const BASE_URL='https://sample-chatapp-backend.onrender.com';
+const SOCKET_URL='https://sample-chatapp-backend.onrender.com';
 
 export {BASE_URL,SOCKET_URL};
